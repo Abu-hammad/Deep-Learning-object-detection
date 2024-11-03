@@ -1,3 +1,3 @@
 # Deep-Learning-object-detection
 <br>
-<h1>abu hammad</h1>
+<h1>Abu Hammad</h1>
